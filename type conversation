@@ -1,0 +1,8 @@
+a = 25
+print(float(a))
+
+
+a= 25.44
+print(int(a))
+print(str(a))
+name ="anand" 

@@ -1,2 +1,2 @@
 # pythonBasics
-learning python
+learning pythonzz
